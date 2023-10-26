@@ -7,12 +7,18 @@ Using Microsoft Power bi we are able to create insights & analytical metrics tha
 The report contains 5 pages that show insight on data collected for Customers, Orders, Order Details, Products and High-level metrics which show business stakeholders a visual of important business data
 
 ## High-level Metrics
+![Hih-Level_Metrics](https://github.com/KhutsoKgwathe/CMPG-323-Project-5---27593657/assets/141318530/fb7d7f1a-4b19-4c34-95a7-041a2c7a0786)
 
 ## Order Monitoring
+![Order_Monitoring](https://github.com/KhutsoKgwathe/CMPG-323-Project-5---27593657/assets/141318530/1a6244c3-28ea-4437-a5a0-d16413fc5791)
 
 ## Product Monitoring
+![Product_Monitoring](https://github.com/KhutsoKgwathe/CMPG-323-Project-5---27593657/assets/141318530/97e9ba0d-afe4-4efb-ac62-49cd026acc07)
 
 ## Customer Monitoring
+![Customer_Monitoring](https://github.com/KhutsoKgwathe/CMPG-323-Project-5---27593657/assets/141318530/502169ea-824a-472c-adb4-c7d1dc16db45)
+
+
 
 
 # References
