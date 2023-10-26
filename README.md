@@ -36,7 +36,9 @@ Product Monitoring allows users to track products through stock counts and descr
 
 
 # References
-- https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-smart-narrative
-- https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-measures
-- https://zebrabi.com/guide/how-to-change-title-in-power-bi-dashboard/
-- https://spreadsheeto.com/power-bi-filter/
+- (2023). Create Smart narrative suammaries. Documentation. Available at: https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-smart-narrative Date accessed: 25 October 2023
+- (2023). Create Measures for Data Analysis in Power BI - Microsoft  Learn. Available at: https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-measures . Date Accessed: 25 October 2023
+- (2023). Format Filters inPowe BI Reports - Microsoft Learn. Available at: https://microsft.learn.com/en-us/power-bi/create-report/powe-bi-report-filter?tabs=powerbi-desktop . Date of Access: 24 October 2023
+- (2023). How To Change Title in Power BI Dashboard.Zebra BI. Available at: https://zebrabi.com/guide/how-to-change-title-in-power-bi-dashboard/
+- Langmann, K. How To Use Filters in Power BI (Step-by-step Tutorial). Available at: https://spreadsheeto.com/power-bi-filter/ . Date of access: 23 October 2023
+- Sharma, D. (2022). Understamding Power BI Filters:  Step by Step Guide. Hevodata.com. Available at: https://hevodata.com/learn/power-bi-filters/ . Date of acceess: 25 October 2023
